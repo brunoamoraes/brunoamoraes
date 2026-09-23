@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, mundo! 👋
 
-<!--
-**brunoamoraes/brunoamoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia, educação e desenvolvimento. Aqui você pode conhecer um pouco mais sobre mim e meus projetos.
 
-Here are some ideas to get you started:
+<p align="center">
+  <"perfil_bruno.jpg">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, Python, PHP, React, R Native, C++, C# etc.
+- **Banco de Dados:** MySQL, PostgreSQL.
+- **HTML e CSS: ** HTML5 e CSS3
+
+### 📫 Como me encontrar:
+- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/bruno-a-moraes-73a129151/)
+- E-mail: bruno.moraes@docente.senai.br
