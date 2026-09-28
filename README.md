@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-bruno.png"
+  <img src="bruno-banner.png"
        alt="Bruno Augusto de Moraes — Professor de Desenvolvimento de Sistemas"
        width="100%">
 </p>
