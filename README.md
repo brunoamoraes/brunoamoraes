@@ -4,11 +4,7 @@
        width="100%">
 </p>
 
-<p align="center">
-  <img src="perfil-info.png"
-       alt="Docência SENAI-SP — Desenvolvimento de Sistemas — Limeira, SP"
-       width="100%">
-</p>
+
 <div align="center">
 
 ### Software Developer • Technology Educator • IoT & Automation
