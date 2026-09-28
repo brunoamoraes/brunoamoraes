@@ -9,11 +9,7 @@
        alt="Docência SENAI-SP — Desenvolvimento de Sistemas — Limeira, SP"
        width="100%">
 </p>
-
-
 <div align="center">
-
-
 
 ### Software Developer • Technology Educator • IoT & Automation
 
@@ -179,7 +175,7 @@ Aprendizagem baseada em projetos
 
 # 🤝 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno_Augusto_de_Moraes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-a-moraes-73a129151/)
+[![LinkedIn](https://www.linkedin.com/in/bruno-a-moraes-73a129151/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-brunoamoraes-181717?style=for-the-badge&logo=github)](https://github.com/brunoamoraes)
 
