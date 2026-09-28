@@ -171,7 +171,7 @@ Aprendizagem baseada em projetos
 
 # Vamos nos conectar
 
-[![LinkedIn]](https://www.linkedin.com/in/bruno-a-moraes-73a129151/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-brunoamoraes-181717?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-a-moraes-73a129151/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-brunoamoraes-181717?style=for-the-badge&logo=github)](https://github.com/brunoamoraes)
 
