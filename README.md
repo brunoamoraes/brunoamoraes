@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="banner-bruno.png"
+       alt="Bruno Augusto de Moraes — Professor de Desenvolvimento de Sistemas"
+       width="100%">
+</p>
+
+<p align="center">
+  <img src="perfil-info.png"
+       alt="Docência SENAI-SP — Desenvolvimento de Sistemas — Limeira, SP"
+       width="100%">
+</p>
+
+
 <div align="center">
 
 
