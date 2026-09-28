@@ -9,13 +9,13 @@
 
 ### Software Developer • Technology Educator • IoT & Automation
 
-Desenvolvimento de Sistemas | Full Stack | Banco de Dados | Redes | IoT | Robótica | Educação Tecnológica
+
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou **educador em tecnologia e desenvolvedor de sistemas**, atuando na formação de profissionais da área de Tecnologia da Informação e no desenvolvimento de projetos que integram software, banco de dados, infraestrutura, IoT e automação.
 
@@ -33,7 +33,7 @@ Tenho especial interesse na integração entre:
 
 ---
 
-# 🚀 Tecnologias
+# Tecnologias
 
 ### Desenvolvimento Web
 
@@ -67,7 +67,7 @@ Tenho especial interesse na integração entre:
 
 ---
 
-# 🧩 Projetos em destaque
+# Projetos em destaque
 
 ## ☕ SmartCoffee
 
@@ -88,7 +88,7 @@ Principais módulos:
 
 ---
 
-## 🏭 Projetos para Indústria
+## Projetos para Indústria
 
 Desenvolvimento de soluções baseadas em desafios e situações reais envolvendo indústria, automação e sistemas de informação.
 
@@ -104,7 +104,7 @@ Desenvolvimento de soluções baseadas em desafios e situações reais envolvend
 
 ---
 
-## 🐍 Laboratório de Programação
+## Laboratório de Programação
 
 Projetos e situações-problema utilizados para desenvolver algoritmos e raciocínio computacional.
 
@@ -114,7 +114,7 @@ Projetos e situações-problema utilizados para desenvolver algoritmos e racioc�
 
 ---
 
-# 🎓 Educação + Tecnologia
+# Educação + Tecnologia
 
 Além do desenvolvimento de software, utilizo o GitHub como ambiente de aprendizagem para organização de:
 
@@ -155,7 +155,7 @@ Laboratórios e projetos envolvendo:
 
 ---
 
-# 🔬 Atualmente explorando
+# Atualmente explorando
 
 ```text
 Full Stack Development
@@ -169,7 +169,7 @@ Aprendizagem baseada em projetos
 
 ---
 
-# 🤝 Vamos nos conectar
+# Vamos nos conectar
 
 [![LinkedIn](https://www.linkedin.com/in/bruno-a-moraes-73a129151/)
 
