@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Bruno Augusto de Moraes
+
 
 ### Software Developer • Technology Educator • IoT & Automation
 
